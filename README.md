@@ -1,5 +1,5 @@
 # Résumé
-
+高质量学习资料群：https://www.jianshu.com/u/6c309803c4cb
 Hit branch [zh_CN](https://github.com/billryan/resume/tree/zh_CN) if you want a Simplified Chinese résumé.
 
 中文用户请前往 [zh_CN](https://github.com/billryan/resume/tree/zh_CN) 分支。
